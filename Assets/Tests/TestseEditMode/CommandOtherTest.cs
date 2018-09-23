@@ -10,7 +10,7 @@ public class CommandOtherTest {
         CommandInvalid commandInvalid = new CommandInvalid();
         commandInvalid.setCommand("commandInvalid");
         Assert.AreEqual(true, commandInvalid.verifyCommand());
-        Assert.AreEqual("\nCommand Invalid. report [HELP] at terminal", commandInvalid.action());
+        Assert.AreEqual("\nCommand Invalid. report [\\HELP] at terminal", commandInvalid.action());
     }
 
     [Test]

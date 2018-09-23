@@ -7,7 +7,7 @@ public class CommandInvalid : Command {
 
     public override string action()
     {
-        return "\nCommand Invalid. report [HELP] at terminal";
+        return "\nCommand Invalid. report [\\HELP] at terminal";
     }
 
     public override bool verifyCommand()
