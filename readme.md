@@ -3,7 +3,7 @@
 
 Terminal made with Unity to encrypt and decrypt messages with the RSA.
 
-[Game] (https://main-duelo.itch.io/terminal-unity-with-rsa)
+https://main-duelo.itch.io/terminal-unity-with-rsa
 
 Directories
 
