@@ -19,6 +19,10 @@ Terminal made with Unity to encrypt and decrypt messages with the RSA.
 
 - [Manual Unity](https://docs.unity3d.com/Manual/index.html)
 
+- [NUnit](https://nunit.org/documentation/)
+
+- [Unity Test Runner](https://docs.unity3d.com/Manual/testing-editortestsrunner.html)
+
 ## List of commands
 
 Clear Terminal - End            
